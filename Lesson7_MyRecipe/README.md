@@ -13,7 +13,8 @@ Breanna Bush
 This project is about using jQuery to respond to a user when they click one of the headers. 
 
 ### View Project Online:
-https://breb96.github.io/lesson7_jquery/
+(Replace this statement with your Github Page URL that was created when you 
+ published the project.)
 
 ### Lessons Learned in the Assignment:
 1. In this assignment I learned how to add interactivity to the application.
